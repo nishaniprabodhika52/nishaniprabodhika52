@@ -4,7 +4,7 @@
 
 ### Hello World! 👋 I'm Nishani
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nishaniprabodhika52&color=blueviolet&style=flat)
 
 </div>
 
@@ -14,4 +14,4 @@
 - 💻 I'm currently learning **Python and Full-Stack Web Development**
 - 🗄️ Passionate about **Databases and MySQL**
 - 🚀 I love building practical projects and exploring new tech!
-- 📧 How to reach me: [nishaniprabodhika52@gmail.com]
+- 📧 How to reach me: [nishaniprabodhika52@gmail.com](mailto:nishaniprabodhika52@gmail.com)
